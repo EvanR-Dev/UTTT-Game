@@ -6,7 +6,8 @@ Simple Rules
 
 Rule 1: In each turn, you can mark any of the small squares on a board.
 Rule 2: If you get three in a row on a small board, that board is won by you (same rules as normal TTT).
-Rule 3: To win the entire UTTT game, you must win three small boards in a row.
+Rule 3: You can't play in a board that has already been won.
+Rule 4: To win the entire UTTT game, you must win three small boards in a row.
 
 New Rules
 
