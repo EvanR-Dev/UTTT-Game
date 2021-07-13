@@ -14,5 +14,6 @@ Rule 2: The opponent can force you to choose an open square in an already won or
 Rule 3: If a given board is filled, you get to choose a mark on any other board.
 
 Resources:
+
 https://mathwithbaddrawings.com/ultimate-tic-tac-toe-original-post/
 https://mathwithbaddrawings.com/2013/11/18/tic-tac-toe-puzzles-and-the-difference-between-a-puzzle-and-a-game/
